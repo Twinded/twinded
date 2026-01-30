@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-twinded.ca-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://twinded.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cloarecthomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cloarecthomas)
 [![Twitter](https://img.shields.io/badge/Twitter-@__twinded-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_twinded)
-[![Email](https://img.shields.io/badge/Email-thomas@cloarec.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@cloarec.ca)
+[![Email](https://img.shields.io/badge/Email-contact@twinded.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@twinded.ca)
 
 </div>
 
