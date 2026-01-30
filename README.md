@@ -91,10 +91,11 @@ Fun voting application for Eurovision watch parties
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twinded&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinded&layout=compact&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Twinded&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Twinded&theme=tokyonight&hide_border=true)](https://github.com/Twinded)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Twinded&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Twinded&theme=tokyonight&hide_border=true)
 
 </div>
 
